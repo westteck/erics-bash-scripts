@@ -1,2 +1,2 @@
 # erics-bash-scripts
-Bash hekp for my 
+Bash scripts for my servers and learning
